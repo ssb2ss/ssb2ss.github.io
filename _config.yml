@@ -3,7 +3,7 @@ title:               ssb2ss
 tagline:             'Sungmok Hong'
 description:         '20213099'
 url:                 http://ssb2ss.github.io
-baseurl:             ''
+#baseurl:             ''
 paginate:            5
 permalink:           pretty
 
