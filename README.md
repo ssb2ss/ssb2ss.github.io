@@ -103,3 +103,7 @@ comment:
 ```
 이제 댓글을 허용하고 싶은 포스트에 `comments: true`를 추가한다.
 
+## **5th.** Upload topic post
+
+특강에 다뤄졌던 내용 중 Markdown 문법에 관련된 글에 대해 작성하기로 한다.  
+작성한 포스트는 [여기](https://ssb2ss.github.io/jekyll/update/2021/12/06/About-Markdown/)에서 확인 가능하다.
