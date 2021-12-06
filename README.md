@@ -101,7 +101,13 @@ comment:
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 {% endif %}
 ```
-이제 댓글을 허용하고 싶은 포스트에 `comments: true`를 추가한다.
+이제 댓글을 허용하고 싶은 포스트에 `comments: true`를 추가한다.  
+원격 저장소에 업로드한다.
+```
+git add _posts/2021-11-25-First_Post.md
+git commit -m "Add Disqus Comments"
+git push origin master
+```
 
 ## **5th.** Upload topic post
 
